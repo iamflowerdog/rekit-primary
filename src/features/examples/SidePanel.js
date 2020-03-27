@@ -9,7 +9,7 @@ export default function SidePanel() {
           <Link to="/examples">Welcome</Link>
         </li>
         <li>
-          <Link to="/examples/yyh">YYH</Link>
+          <Link to="/examples/formSubmit">FormSubmit</Link>
         </li>
         <li>
           <Link to="/examples/counter">Counter Demo</Link>
